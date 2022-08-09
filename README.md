@@ -27,4 +27,4 @@ and more..
 
 <img src="https://img.shields.io/badge/라벨-메세지-색상">
 <a href="https:/https://www.artstation.com/?sort_by=trending&dimension=3d/">
-<img src="https://img.shields.io/badge/Artstation-#13AFF0?style=flat-square&logo=Artstation&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Artstation-13AFF0?style=flat-square&logo=Artstation&logoColor=white"/></a>&nbsp
