@@ -1,4 +1,4 @@
-### Hi there 👋
+### <p align="center"> Hi there 👋
 
 <!--
 **nabae229/nabae229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->I’m currently learning Unreal engine shader code
-and more..
+-->
+<h3 align="center"> I’m currently learning..</h3> 
+- Unreal engine shader code
 - C, C++, Python
-- See HTML in the right
 - ✨Magic ✨
 
-<img src="https://img.shields.io/badge/VisualStudio-blueviolet/Visual-Studio-5C2D91style=flat-square&logo=C%2B%2B&logoColor=white"
-<img src="https://img.shields.io/badge/언어-색상?style=flat-square&logo=simpleicons에서 로고 이름&logoColor=white"/></a>&nbsp
 
-### If you want to know more about me 💬
+<h4 align="center"> Techs that I've used at least once</h4>
 
-<img src="https://img.shields.io/badge/라벨-메세지-색상">
-<a href="https:/https://www.artstation.com/?sort_by=trending&dimension=3d/">
-<img src="https://img.shields.io/badge/Artstation-13AFF0?style=flat-square&logo=Artstation&logoColor=white"/></a>&nbsp
+<p align="center">
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=Visual-Studio-5C2D91style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+
+</p>
+
+<h3 align="center"> If you want to know more about me 💬..</h3>
+<p align="center"
+   <a href="https:/https://www.artstation.com/?sort_by=trending&dimension=3d/">
+   <img src="https://img.shields.io/badge/Artstation-13AFF0?style=flat-square&logo=Artstation&logoColor=white"/></a>&nbsp
+</p>
